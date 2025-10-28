@@ -1,4 +1,3 @@
-import React from "react";
 import { BsTicket } from "react-icons/bs";
 import { Link, useNavigate, useLocation } from "react-router-dom";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";

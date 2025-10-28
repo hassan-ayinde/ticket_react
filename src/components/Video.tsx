@@ -1,5 +1,3 @@
-import React from "react";
-
 const Video = () => {
   return (
     <section className="w-[75%] mx-auto">

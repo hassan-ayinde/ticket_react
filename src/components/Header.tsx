@@ -1,5 +1,3 @@
-import React from "react";
-// import Logo from '../assets/logo.png'
 import { BsTicket } from "react-icons/bs";
 import { Link } from "react-router-dom";
 

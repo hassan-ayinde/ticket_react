@@ -10,6 +10,7 @@ interface TicketData {
   name: string;
   value: number;
   color: string;
+  [key: string]: string | number;
 }
 
 const TicketsByStatus: React.FC = () => {

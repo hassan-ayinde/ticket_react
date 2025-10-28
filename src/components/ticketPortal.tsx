@@ -39,7 +39,7 @@ interface Ticket {
   description?: string;
 }
 
-const TicketPortal = () => {
+const TicketPortal:React.FC = () => {
   const [tickets, setTickets] = useState<Ticket[]>([]);
   const [search, setSearch] = useState("");
 

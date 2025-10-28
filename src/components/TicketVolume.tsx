@@ -24,7 +24,6 @@ const TicketVolume: React.FC = () => {
     { day: "Sun", tickets: 55 },
   ];
 
-  const highlightDay = "Wed"; // The bar to highlight
   const percentageChange = +5; // 5% increase
 
   return (
